@@ -1,0 +1,3 @@
+[submodule "3rdparty/slang"]
+	path = 3rdparty/slang
+	url = https://github.com/shader-slang/slang.git
